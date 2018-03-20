@@ -1,0 +1,17 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\sunrenwei\AppData\Local\Programs\Python\Python36\python.exe" value="false" />
+        <entry key="C:\Users\sunrenwei\PycharmProjects\weather_transform\venv\Scripts\python.exe" value="false" />
+        <entry key="D:\web_crawling\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\sunrenwei\AppData\Local\Programs\Python\Python36\python.exe" value="false" />
+        <entry key="C:\Users\sunrenwei\PycharmProjects\weather_transform\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
